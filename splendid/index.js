@@ -1,6 +1,6 @@
 import { join } from 'path'
 
-const APP_DIR = '.'
+const APP_DIR = 'splendid'
 
 const config = {
   layout: join(APP_DIR, 'layout/main.html'),

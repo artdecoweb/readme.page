@@ -5,7 +5,7 @@ export default {
   feb18_24: {
     title: 'Read Me Page',
     url: 'index.html',
-    file: 'index.md',
+    file: 'index.html',
     menuUrl: '/',
-  }
+  },
 }

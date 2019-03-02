@@ -17,8 +17,8 @@
     "rec": "NODE_DEBUG=appshot appshot -T 23 -a Terminal -y 150 -f",
     "e": "node example",
     "example/": "yarn e example/example.js",
-    "start": "splendid-dev splendid.js -s",
-    "build": "splendid-dev splendid.js"
+    "start": "splendid-dev -s",
+    "build": "splendid-dev"
   },
   "files": [
     "build"
@@ -44,8 +44,5 @@
     "preact": "8.4.2",
     "yarn-s": "1.1.0",
     "zoroaster": "3.5.2"
-  },
-  "dependencies": {
-    "@wrote/read": "1.0.0"
   }
 }

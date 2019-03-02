@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "tags": [{
+    "name": "Figure",
+    "description": "The Figure.",
+    "attributes": [{
+      "name": "src",
+      "description": "The source to the figure.",
+      "values": [
+        { "name": "alert" }
+      ]
+    }]
+  }]
+}
