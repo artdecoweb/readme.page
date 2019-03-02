@@ -41,6 +41,7 @@
     "alamode": "1.5.1",
     "documentary": "1.20.1",
     "eslint-config-artdeco": "1.0.1",
+    "preact": "8.4.2",
     "yarn-s": "1.1.0",
     "zoroaster": "3.5.2"
   },
